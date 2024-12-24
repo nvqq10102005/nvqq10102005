@@ -8,7 +8,8 @@
 
 ## How to Reach Me
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/nguyen-van-quy-46a458217/)  
-- 📫 [Email](nvqq43@gamil.com)  
+- 📫 [Email](nvqq43@gamil.com)
+- 🌍 [Facabook](https://www.facebook.com/nguyen.van.quy.696696/)
 
 ## Skills
 - **Languages**: Java, TypeScript, JavaScript, SQL, Python  
