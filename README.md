@@ -2,7 +2,7 @@
 
 ## About Me
 - 👀 I’m interested in software development, especially in **Java web Developer**,
-- 🌱 I’m currently learning advanced **React** **Angular frameworks**, **Spring Boot**.
+- 🌱 I’m currently learning advanced **ReactJs**, **Angular frameworks**, **Spring Boot**.
 - 💞️ I’m looking to collaborate on **innovative projects** that push the boundaries of technology and create value for users.  
 - 😄 Pronouns: He/Him  
 
