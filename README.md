@@ -12,13 +12,13 @@
 - 🌍 [Facebook](https://www.facebook.com/nguyen.van.quy.696696/)
 
 ## Skills
-- **Languages**: Java, TypeScript, JavaScript, SQL, Python  
-- **Frameworks & Libraries**: Spring Boot, Angular, Hibernate, jQuery  
-- **Tools & Platforms**: Git, Docker, AWS, MySQL, MongoDB  
+- **Languages**: Java, TypeScript, JavaScript 
+- **Frameworks & Libraries**: React Js , Vue, Hibernate
+- **Tools & Platforms**: Git, Docker, MySQL, MongoDB  
 - **Soft Skills**: Problem-solving, teamwork, and continuous learning  
 
 ## Current Focus
-- Building scalable and user-friendly web solutions using **Angular** and **Spring Boot**.  
+- Building scalable and user-friendly web solutions using **React Js** and **Spring Boot**.  
 - Diving deeper into **DevOps practices** and learning **CI/CD pipelines**.  
 
 Feel free to connect and share ideas or opportunities. Let’s build something amazing together! 🚀
